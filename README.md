@@ -95,6 +95,11 @@ A **domain-specific Question Answering system** for the **medical field in Benga
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" />
   <img src="https://cdn.pulse2.com/cdn/2025/01/Render-Logo.jpg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50" height="50" />
+  <img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" width="50" height="50" />
+  <img src="https://jupyter.org/assets/share.png" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="50" height="50" />
+  
 </p>
 
 
