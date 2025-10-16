@@ -102,7 +102,7 @@ A **domain-specific Question Answering system** for the **medical field in Benga
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" width="50" height="50" />  
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe9Qno9F0sj2PBXfrYuEE9hvaAMINy-4uy2A&s" width="50" height="50" />  
   <img src="https://store-images.s-microsoft.com/image/apps.1409.13851527096222888.2b60149a-04a5-4578-a6b2-d7b7377332d5.c22d8e97-4d44-4304-9bd2-55f9d29c0f82" width="50" height="50" />  
-  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" />
   
 </p>
 
