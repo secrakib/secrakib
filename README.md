@@ -20,7 +20,7 @@ I'm passionate about leveraging data to build intelligent systems that solve rea
 <h3>Scientific PDF RAG System</h3>
 <br/>
 <a href="https://github.com/secrakib/Scientific-Pdf-Rag">
-<img src="https://raw.githubusercontent.com/secrakib/Scientific-Pdf-Rag/main/demo/Scientific%20Pdf%20RAG.gif" alt="Scientific PDF RAG Demo"/>
+<img src="https://raw.githubusercontent.com/secrakib/Scientific-Pdf-Rag/main/demo/.gif" alt="Scientific PDF RAG De"/>
 </a>
 <p>An interactive chat application that allows users to ask questions about scientific PDF documents. It implements a Retrieval-Augmented Generation (RAG) pipeline to provide accurate, context-aware answers.</p>
 <ul>
@@ -36,9 +36,6 @@ I'm passionate about leveraging data to build intelligent systems that solve rea
 <td width="50%">
 <h3>Bengali Malicious Meme Classification</h3>
 <br/>
-<a href="https://github.com/secrakib/Bengali_Malicious_Memes">
-<img src="https://user-images.githubusercontent.com/62477054/225330368-b8ce1c93-9c59-42b7-8742-d6c29b763327.png" alt="Bengali Meme Classification Demo"/>
-</a>
 <p>A multi-modal deep learning model to identify and classify malicious content in Bengali memes. This project addresses the challenge of understanding nuanced, regional content by combining visual and textual analysis.</p>
 <ul>
     <li>Fine-tuned Vision Transformer (ViT) for image feature extraction.</li>
@@ -55,9 +52,6 @@ I'm passionate about leveraging data to build intelligent systems that solve rea
 <td width="50%">
 <h3>BanglaMed: Medical Question Answering</h3>
 <br/>
-<a href="https://github.com/secrakib/BanglaMed">
-<img src="https://user-images.githubusercontent.com/62477054/227909384-5f4b0059-e659-4d64-ab0d-452f1e605d3b.png" alt="BanglaMed Demo"/>
-</a>
 <p>A specialized Question-Answering system for the medical domain in the Bengali language. The model is trained to understand and generate answers to complex medical queries, improving access to health information.</p>
 <ul>
     <li>Fine-tuned a mT5 (Multilingual T5) model on a curated medical QA dataset.</li>
