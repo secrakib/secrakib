@@ -33,7 +33,7 @@ A **Retrieval-Augmented Generation (RAG)** pipeline that enables users to query 
 - Built an interactive **Streamlit** interface for user-friendly exploration.  
 
 **Tech Stack:** LangChain, Llama 2, PyTorch, FAISS, Streamlit  
-**Demo:** [🔗 Live App on Render](https://scientific-rag.onrender.com)
+**Demo:** [🔗 Live App on Render](https://paperchat-frontend.onrender.com)
 
 <p align="right"><a href="https://github.com/secrakib/Scientific-Pdf-Rag"><strong>View on GitHub →</strong></a></p>
 
