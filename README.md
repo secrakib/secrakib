@@ -165,7 +165,7 @@ I'm always open to collaborating on interesting projects or discussing new ideas
    <a href="mailto:secrakibullah@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://your-portfolio-website.com/" target="_blank">
+  <a href="https://dune-sandal-4a3.notion.site/Portfolio-190dc8566f8580898fc2f042f70093ee" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
   </a>
 </p>
