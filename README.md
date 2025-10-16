@@ -130,7 +130,7 @@ A **domain-specific Question Answering system** for the **medical field in Benga
   <a href="https://www.kaggle.com/rakibullah" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle">
   </a>
-  <a href="https://leetcode.com/rakib_ullah" target="_blank">
+  <a href="https://leetcode.com/rakibullah60" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
   </a>
   <a href="mailto:secrakibullah@gmail.com">
