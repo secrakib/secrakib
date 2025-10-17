@@ -19,7 +19,7 @@ My current focus is on **LLMs**, **Retrieval-Augmented Generation (RAG)** system
 <tr>
 <td width="50%">
 
-### 🔬 [Scientific PDF Q/A RAG System](https://github.com/secrakib/Scientific-Pdf-Rag)
+### 🔬 [Context-Aware Scientific Document Q/A System](https://github.com/secrakib/Scientific-Pdf-Rag)
 
 <a href="https://github.com/secrakib/Scientific-Pdf-Rag">
   <img src="https://raw.githubusercontent.com/secrakib/Scientific-Pdf-Rag/main/demo/Scientific%20Pdf%20RAG.gif" alt="Scientific PDF RAG Demo" width="100%"/>
@@ -67,16 +67,19 @@ A **Multimodal classification system** designed to detect malicious Bengali, Ben
 <tr>
 <td width="50%">
 
-### 🩺 [BanglaMed: Bengali Medical QA System](https://github.com/secrakib/BanglaMed)
+### 🩺 [BanglaMed: Mortality & Length of Stay Prediction for Bengali Clinical Data](https://github.com/secrakib/BanglaMed)
 
-A **domain-specific Question Answering system** for the **medical field in Bengali**, improving access to healthcare information.
+Developed a predictive modeling system for early diagnosis and management in the medical field, focusing on Bengali clinical data to improve accessibility for local practitioners.
 
-**Highlights:**
-- Fine-tuned **mT5** on a custom medical QA dataset.  
-- Built a scalable API with **FastAPI** and containerized using **Docker**.  
-- Deployed as a production-ready model service.  
+**Highlights:**  
+- Fine-tuned transformer models on a custom Bengali clinical dataset.  
+- Led a team of four, providing guidance and coding support.  
+- Developed reusable scripts for data processing and model training.
+- Analyzed model performance to identify reasons for failure.
+- Authored the initial draft for journal submission.  
 
-**Tech Stack:** PyTorch, Hugging Face, FastAPI, Docker, Render  
+**Tech Stack:**  
+PyTorch, Hugging Face, LaTeX, Notion, Mandaley, Scikit-learn, Seaborn, Matplotlib, Pandas
 
 <p align="right"><a href="https://github.com/secrakib/BanglaMed"><strong>View on GitHub →</strong></a></p>
 
