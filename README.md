@@ -155,4 +155,4 @@ PyTorch, Hugging Face, LaTeX, Notion, Mandaley, Scikit-learn, Seaborn, Matplotli
 
 ---
 
-⭐ **"Turning research ideas into deployable AI systems that make a real-world impact."**
+
