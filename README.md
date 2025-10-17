@@ -19,7 +19,7 @@ My current focus is on **LLMs**, **Retrieval-Augmented Generation (RAG)** system
 <tr>
 <td width="50%">
 
-### 🔬 [Scientific PDF RAG System](https://github.com/secrakib/Scientific-Pdf-Rag)
+### 🔬 [Scientific PDF Q/A RAG System](https://github.com/secrakib/Scientific-Pdf-Rag)
 
 <a href="https://github.com/secrakib/Scientific-Pdf-Rag">
   <img src="https://raw.githubusercontent.com/secrakib/Scientific-Pdf-Rag/main/demo/Scientific%20Pdf%20RAG.gif" alt="Scientific PDF RAG Demo" width="100%"/>
@@ -32,7 +32,7 @@ A **Retrieval-Augmented Generation (RAG)** pipeline that enables users to query 
 - Used **FAISS** for fast semantic search over document embeddings.  
 - Built an interactive **Streamlit** interface for user-friendly exploration.  
 
-**Tech Stack:** LangChain, Llama 2, PyTorch, FAISS, Streamlit  
+**Tech Stack:** LangChain, Gemini, Fastapi, FAISS, Streamlit  
 **Demo:** [🔗 Live App on Render](https://paperchat-frontend.onrender.com)
 
 <p align="right"><a href="https://github.com/secrakib/Scientific-Pdf-Rag"><strong>View on GitHub →</strong></a></p>
