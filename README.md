@@ -60,7 +60,7 @@ A **Multimodal classification system** designed to detect malicious Bengali, Ben
 **Tech Stack:** PyTorch, Hugging Face Transformers, Pandas, Label Studio, Gemini, LaTeX, Notion, Draw.io, Scikit-learn, Seaborn, Matplotlib
 
 
-<p align="right"><a href="https://github.com/secrakib/Bengali_Malicious_Memes"><strong>View on GitHub →</strong></a></p>
+<p align="right"><a href="https://github.com/secrakib/Bengali_Malicious_Memes_Private"><strong>View on GitHub →</strong></a></p>
 
 </td>
 </tr>
