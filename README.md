@@ -1,9 +1,9 @@
 # 👋 Hi, I'm **Rakib Ullah**
 
-### 🧠 Machine Learning Engineer | Building & Deploying Intelligent Systems
+### 🧠 Aspiring Machine Learning Engineer | Exploring Intelligent Systems  
 
-I design and deploy **robust AI systems** — from research prototypes to production-ready applications.  
-My work focuses on **LLMs**, **RAG systems**, and **efficient model serving**, with a strong emphasis on making AI systems practical, scalable, and impactful.
+I'm passionate about **designing, training, and deploying AI models** — learning by building real-world projects that connect theory with practice.  
+My current focus is on **LLMs**, **Retrieval-Augmented Generation (RAG)** systems, and **efficient model deployment**, with the goal of developing scalable and impactful AI solutions.  
 
 <p align="center">
   <a href="#-featured-projects"><strong>Projects</strong></a> ·
