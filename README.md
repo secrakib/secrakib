@@ -43,9 +43,10 @@ A **Retrieval-Augmented Generation (RAG)** system that enables natural language 
 </td>
 <td width="50%">
 
-### 🧩 [Bengali Malicious Meme Classification](https://github.com/secrakib/Bengali_Malicious_Memes)
+### 🧩 [Classifying Malicious Content in Bengali and Code-Switched Memes: A Multimodal Approach](https://github.com/secrakib/Bengali_Malicious_Memes)
 
-A **Multi-Modal Classification** system detecting malicious Bengali memes using image-text fusion and NLP techniques.
+A **Multimodal classification system** designed to detect malicious Bengali, Bengali-English code-mixed, and code-switched memes by leveraging image-text fusion and advanced NLP techniques.
+
 
 **Highlights:**
 - Conceptualized the project idea and led a three-member research team.  
