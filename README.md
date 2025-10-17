@@ -25,12 +25,15 @@ My current focus is on **LLMs**, **Retrieval-Augmented Generation (RAG)** system
   <img src="https://raw.githubusercontent.com/secrakib/Scientific-Pdf-Rag/main/demo/Scientific%20Pdf%20RAG.gif" alt="Scientific PDF RAG Demo" width="100%"/>
 </a>
 
-A **Retrieval-Augmented Generation (RAG)** pipeline that enables users to query and interact with scientific PDFs through natural language.
+A **Retrieval-Augmented Generation (RAG)** system that enables natural language interaction with scientific PDFs, providing contextual, memory-aware responses and seamless document exploration.
 
-**Highlights:**
-- Implemented a LangChain-based RAG workflow for contextual LLM responses.  
-- Used **FAISS** for fast semantic search over document embeddings.  
-- Built an interactive **Streamlit** interface for user-friendly exploration.  
+**Highlights**
+- Built a **LangChain-based RAG pipeline** for contextual, memory-aware LLM responses.  
+- Integrated **FAISS** for fast semantic search over **Gemini embeddings**.  
+- Designed **retrieval, document, and memory chains** for history-aware conversations.  
+- Developed an interactive **Streamlit UI** for seamless document exploration.  
+- Added **comprehensive tests** for all modules.
+
 
 **Tech Stack:** LangChain, Gemini, Fastapi, FAISS, Streamlit  
 **Demo:** [🔗 Live App on Render](https://paperchat-frontend.onrender.com)
