@@ -19,9 +19,9 @@ My current focus is on **LLMs**, **Retrieval-Augmented Generation (RAG)** system
 <tr>
 <td width="50%">
 
-### 🔬 [Context-Aware Scientific Document Q/A System](https://github.com/secrakib/Scientific-Pdf-Rag)
+### 🔬 [Context-Aware Scientific Document Q/A System](https://github.com/secrakib/Scientific-Document-QA-With-Rag)
 
-<a href="https://github.com/secrakib/Scientific-Pdf-Rag">
+<a href="https://github.com/secrakib/Scientific-Document-QA-With-Rag">
   <img src="https://raw.githubusercontent.com/secrakib/Scientific-Pdf-Rag/main/demo/Scientific%20Pdf%20RAG.gif" alt="Scientific PDF RAG Demo" width="100%"/>
 </a>
 
@@ -38,7 +38,7 @@ A **Retrieval-Augmented Generation (RAG)** system that enables natural language 
 **Tech Stack:** LangChain, Gemini, Fastapi, FAISS, Streamlit  
 **Demo:** [🔗 Live App on Render](https://paperchat-frontend.onrender.com)
 
-<p align="right"><a href="https://github.com/secrakib/Scientific-Pdf-Rag"><strong>View on GitHub →</strong></a></p>
+<p align="right"><a href="https://github.com/secrakib/Scientific-Document-QA-With-Rag"><strong>View on GitHub →</strong></a></p>
 
 </td>
 <td width="50%">
